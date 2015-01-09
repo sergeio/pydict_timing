@@ -102,7 +102,7 @@ code/pydict_timing$ python dictionary_timing.py
 0.0336126089096 0.0333735942841
 ```
 
-Hmmm.  Still very little difference, and contradictory to **Beautiful Code**'s
+Hmmm.  Still very little difference, and contradictory to *Beautiful Code*'s
 claim.
 
 Maybe python or the OS is doing some sort of caching.  Or maybe it's something
